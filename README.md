@@ -1,7 +1,7 @@
 # heart-failure-survival-logistic-regression-rshiny
 Logistic regression analysis of heart failure clinical data, including assumption checking and model validation, with an interactive R Shiny app for mortality probability estimation.
 
-This project uses the Heart Failure Clinical Records dataset from the UCI Repository to perform logistic regression and represents my first attempt with this machine learning method.The goal is to determine whether a model can predict survival or death based on clinical data for patients who experienced heart failure.
+This project uses the Heart Failure Clinical Records dataset from the UCI Repository to perform logistic regression and represents my first attempt with this machine learning method. The goal is to determine whether a model can predict survival or death based on clinical data for patients who experienced heart failure.
 
 Exploratory Data Analysis (EDA):
 Before modeling, EDA was conducted to explore relationships between clinical variables and survival outcomes:
